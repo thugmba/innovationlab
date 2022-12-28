@@ -4,7 +4,7 @@ main:
     url: /mission/
 
   - title: "Research"
-    url: /presearch/
+    url: /research/
 
   - title: "Members"
     url: /members/
