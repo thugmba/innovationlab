@@ -5,7 +5,7 @@ permalink: /members/
 author_profile: true
 ---
 
-__PI__
+__Principal investigator__
 
 - Brian Kim
 
@@ -20,3 +20,8 @@ __Master's students__
 __Undergraduate students__
 
 - Miaomiao
+
+__Collaborators__
+
+- You
+
