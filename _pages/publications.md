@@ -31,7 +31,6 @@ Conference papers
 
 - Tae-sung Kim, Chuck Yoo (1997). Web Server Performance and Process Model. World conference WebNET97. Association for the Advancement of Computing in Education, Toronto, Canada.
 
-Invited talks
 
 
 <!-- {% if author.googlescholar %}
