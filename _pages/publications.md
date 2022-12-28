@@ -7,9 +7,9 @@ author_profile: true
 
 Journal papers
 
-- Kim, T. B., & Ho, C.-T. B. (2021). Validating the moderating role of age in multi-perspective acceptance model of wearable healthcare technology. Telematics and Informatics, 61, 101603. https://doi.org/10.1016/j.tele.2021.101603. __*(SSCI,IF=9.140)*__ 
+- Kim, T. B., & Ho, C.-T. B. (2021). Validating the moderating role of age in multi-perspective acceptance model of wearable healthcare technology. Telematics and Informatics, 61, 101603. [https://doi.org/10.1016/j.tele.2021.101603](https://doi.org/10.1016/j.tele.2021.101603). __*(SSCI,IF=9.140)*__ 
 
-- Kim, T. B., & Ho, C.-T. B. (2022). Reality of Virtual Reality Research between 1987 and 2021. International Journal of Information and Management Sciences, 33, 345~259, doi:10.6186/IJIMS.202203_33(3).0005. Invited from conference
+- Kim, T. B., & Ho, C.-T. B. (2022). Reality of Virtual Reality Research between 1987 and 2021. International Journal of Information and Management Sciences, 33, 345~259, [https://doi.org/10.6186/IJIMS.202209_33(3).0005](https://doi.org/10.6186/IJIMS.202209_33(3).0005). _Invited from conference_
 
 - Tae-sung Kim, Chuck Yoo (1996). Web Server Performance. ’96 Fall Conference, KISS, Vol.23, No. 2, pp 1209-1212, Yong-In, Korea.
 
@@ -30,6 +30,8 @@ Conference papers
 - Ravi Vadapalli, A. Sill, R. Dooley, M. Murray. P. Luo, T. Kim, M. Huang, K. Thyagaraja, and D. Chaffin (2007). TIGRE Environment for Grid Enabled/Suitable Applications, Demonstration session. The 8th IEEE/ACM International Conference on Grid Computing (Grid 2007), Austin, TX, USA.
 
 - Tae-sung Kim, Chuck Yoo (1997). Web Server Performance and Process Model. World conference WebNET97. Association for the Advancement of Computing in Education, Toronto, Canada.
+
+Invited talks
 
 
 <!-- {% if author.googlescholar %}
