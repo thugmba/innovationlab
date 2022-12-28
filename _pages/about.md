@@ -8,9 +8,26 @@ redirect_from:
   - /about.html
 ---
 
+Mission
+
+Toward better world through extensive sharing of knowledge
+
 Vision
 
-Mission
+Create knowledge by exploring AI applications for management and health research
+
+<!-- What wo do -->
+
+Information with technology management
+
+As the way to access information is constantly changing, LIS needs to transform itself from information curator to insights creator by uncovering hidden patterns in data through technologies. And these insights become a fundamental ingredient for academics and practitioners to make informed decisions in a rapidly changing and competitive global environment. Without properly created data, it is impossible to make a data-driven decision.
+
+Without proper management, technology is just like a stack of books in the corner of a library. It would not help us to move forward. So does information. Value is created only when information is utilized by technologies and it is the value that helps us to move forward. The role of an information provider is already replaced by Google. However, Google can not replace the role of insight creator yet. 
+
+Challenge in big data era
+
+The amount of data helps us to make an informed decision. But, the quality of the decision degrades when the amount exceeds a certain threshold. At this point, the amount of information hurts us and we tend to make the wrong decision. This is a challenge we have to face in the era of big data. Therefore, it is crucial to quantify the threshold using scientific methods.
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
