@@ -9,20 +9,20 @@ author_profile: true
 
 This is a list of courses offered by Dr. Brian Kim.
 
-## Graduate level
+Graduate level
 
 - [Technology Management: Theory and Practice](/courses/tm_theory_practice.md)
 - [Research Methods for Technology Management](/courses/rm_tm.md)
 
-## Undergraduate level
+Undergraduate level
 
-### Preliminary courses
+Preliminary courses
 
 - [Introduction to Python](/courses/pre_python.md)
 - [Introduction to R](/courses/pre_r.md)
 - [Introduciton to JavaScript](/courses/pre_js.md)
 
-### Intermediate/Advanced courses
+Intermediate/Advanced courses
 
 - [Introduction to Data Science](/courses/intro_data_science.md)
 - [Machine Learning with Python](/courses/machine_learning_python.md)
