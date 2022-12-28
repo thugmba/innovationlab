@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Journal papers
+__Journal papers__
 
 - Kim, T. B., & Ho, C.-T. B. (2021). Validating the moderating role of age in multi-perspective acceptance model of wearable healthcare technology. Telematics and Informatics, 61, 101603. [https://doi.org/10.1016/j.tele.2021.101603](https://doi.org/10.1016/j.tele.2021.101603). __*(SSCI,IF=9.140)*__ 
 
@@ -15,7 +15,7 @@ Journal papers
 
 - Kyung-shang Yu, Tae-sung Kim, Chuck Yoo (1996). Workstation-> Internet webserver. ’96 Spring Conference, KISS, Vol.23, No. 1, pp 561-564, Dae-Gu, Korea.
 
-Conference papers
+__Conference papers__
 
 - __*(THE BEST PAPER AWARD)*__ Kim, T. B., & Ho, C.-T. B. (2022, May 28). Reality of Virtual Reality Research between 1987 and 2021. The 2022 International Conference in Management Sciences and Decision Making, Taipei, Taiwan.
 

@@ -8,23 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Mission
+__Mission__
 
 Toward better world through extensive sharing of knowledge
 
-Vision
+__Vision__
 
 Create knowledge by exploring AI applications for management and health research
 
 <!-- What wo do -->
 
-Information with technology management
+__Information with technology management__
 
 As the way to access information is constantly changing, LIS needs to transform itself from information curator to insights creator by uncovering hidden patterns in data through technologies. And these insights become a fundamental ingredient for academics and practitioners to make informed decisions in a rapidly changing and competitive global environment. Without properly created data, it is impossible to make a data-driven decision.
 
 Without proper management, technology is just like a stack of books in the corner of a library. It would not help us to move forward. So does information. Value is created only when information is utilized by technologies and it is the value that helps us to move forward. The role of an information provider is already replaced by Google. However, Google can not replace the role of insight creator yet. 
 
-Challenge in big data era
+__Challenge in big data era__
 
 The amount of data helps us to make an informed decision. But, the quality of the decision degrades when the amount exceeds a certain threshold. At this point, the amount of information hurts us and we tend to make the wrong decision. This is a challenge we have to face in the era of big data. Therefore, it is crucial to quantify the threshold using scientific methods.
 

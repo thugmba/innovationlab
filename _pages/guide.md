@@ -17,13 +17,13 @@ Data sources
 
 - Machine learning
 
-  - Google Dataset Search: general dataset https://datasetsearch.research.google.com/
-  - Kaggle Datasets: machine learning dataset https://www.kaggle.com/datasets
-  - Federal Reserve Economic Data: economic dataset https://fred.stlouisfed.org/
+  - [Google Dataset Search](https://datasetsearch.research.google.com/): General dataset search engine with various useful metadata of dataset.
+  - [Kaggle Datasets](https://www.kaggle.com/datasets): Various dataset for validating the performance of machine learning algorithms.
+  - [Federal Reserve Economic Data](https://fred.stlouisfed.org/): economic dataset 
 
 Sharing Knowledge
 
-- [github](https://github.com/)
+- [github](https://github.com/): github is not only for source code, but also for sharing text information using _page_ feature. This website is also created using _page_.
 
 Authoring knowledge
 
@@ -31,5 +31,4 @@ Authoring knowledge
 
 Authroing high quality vector graphic
 
-- [Inkscape](https://inkscape.org/): This free tool can manipulate vector graphic easily to generate high quality grapihc arts for academic manuscript.
- 
+- [Inkscape](https://inkscape.org/): This tool can manipulate vector graphic easily to generate high quality graphic arts for academic manuscript.

@@ -23,5 +23,6 @@ __Undergraduate students__
 
 __Collaborators__
 
-- You
+We are actively looking for collaborators who share the vision with us. You are more than welcome to contact the principal investigator regarding potential collaboration or projects.
+
 

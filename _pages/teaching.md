@@ -9,12 +9,12 @@ author_profile: true
 
 This is a list of courses offered by Dr. Brian Kim.
 
-Graduate level
+__Graduate level__
 
 - [Technology Management: Theory and Practice](https://github.com/briankimstudio/curriculum/blob/main/courses/tm_theory_practice.md)
 - [Research Methods for Technology Management](https://github.com/briankimstudio/curriculum/blob/main/courses/rm_tm.md)
 
-Undergraduate level
+__Undergraduate level__
 
 Preliminary courses
 
