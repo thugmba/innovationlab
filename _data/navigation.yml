@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Mission"
-    url: /mission/
+  # - title: "Mission"
+  #   url: /mission/
 
   - title: "Research"
     url: /research/
