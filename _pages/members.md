@@ -7,7 +7,7 @@ author_profile: true
 
 __Principal investigator__
 
-- Brian Kim
+- [Brian Kim](https://briankimstudio.github.io/)
 
 __Doctoral students__
 
