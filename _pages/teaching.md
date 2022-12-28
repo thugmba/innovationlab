@@ -32,7 +32,7 @@ Intermediate/Advanced courses
 - [Big Data Analytics](https://github.com/briankimstudio/curriculum/blob/main/courses/big_data_analytics.md)
 - [IoT: Theory and Practice](https://github.com/briankimstudio/curriculum/blob/main/courses/iot.md)
 
-Most of undergraduate courses come with hands-on lab session where students can aqcuire practical experience by applying concepts and theorys to the real problem solving situation. The goal of hands-on lab is to get students prepared to deal with real tasks with confidence in workplace after completing these courses.
+Most of undergraduate courses come with hands-on lab session where students can acquire practical experience by applying concepts and theorys to the real problem solving situation. The goal of hands-on lab is to get students prepared to deal with real tasks with confidence in workplace after completing these courses.
 
 <!-- {% include base_path %}
 

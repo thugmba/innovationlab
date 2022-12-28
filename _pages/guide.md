@@ -29,6 +29,6 @@ Authoring knowledge
 
 - [MS Visual studio code](https://code.visualstudio.com/): It allows us to author documents, Python source codes, R source codes.
 
-Authroing high quality vector graphic
+Authoring high quality vector graphic
 
 - [Inkscape](https://inkscape.org/): This tool can manipulate vector graphic easily to generate high quality graphic arts for academic manuscript.
