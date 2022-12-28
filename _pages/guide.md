@@ -9,7 +9,7 @@ Conducting research is a complicated process which requires various tools to enh
 
 __Reference management__
 
-- [zotero](https://www.zotero.org/) : This is an essential tool to create knowledge by organizing knowledge. 
+- [zotero](https://www.zotero.org/) : This is an essential tool to create knowledge by organizing knowledge. I managed to handle more than 2,000 references easily when I was preparing manuscript. It can manage not only papers, but also, website and url to Youtube video. Thus, we can organize related information in single place. It is like a virtual folder for keeping various kinds of data item together.
 
 __Data sources__ 
 
