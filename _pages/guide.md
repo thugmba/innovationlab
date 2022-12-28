@@ -7,7 +7,7 @@ author_profile: true
 
 Reference management
 
-- [zotero](https://www.zotero.org/) : This is an essential toool to create knowledge by organizing knowledge. 
+- [zotero](https://www.zotero.org/) : This is an essential tool to create knowledge by organizing knowledge. 
 
 Data sources 
 
