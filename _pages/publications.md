@@ -17,9 +17,9 @@ __Journal papers__
 
 __Conference papers__
 
-- Kim, T. B. (2023a, May 27). How machine learning disrupts medical research. The 2023 International Conference in Management Sciences and Decision Making, Taipei, Taiwan.
+- Kim, T. B. (2023). How machine learning disrupts medical research. The 2023 International Conference in Management Sciences and Decision Making, Taipei, Taiwan.
 
-- Kim, T. B. (2023b, June 17). Where is Generative AI Headed? 2023 International Conference on Information Management, Kaohsiung, Taiwan.
+- Kim, T. B. (2023). Where is Generative AI Headed? 2023 International Conference on Information Management, Kaohsiung, Taiwan.
   
 - __*(THE BEST PAPER AWARD)*__ Kim, T. B., & Ho, C.-T. B. (2022, May 28). Reality of Virtual Reality Research between 1987 and 2021. The 2022 International Conference in Management Sciences and Decision Making, Taipei, Taiwan.
 
