@@ -7,6 +7,7 @@ author_profile: true
 
 __Research themes__
 
+- Mixed metrics(Bibliometrics)
 - Technology landscaping
 - Emerging technology discovery
 - Technology opportunity discovery
@@ -18,9 +19,16 @@ Innovation Lab focuses on three major research directions. First, apply machine 
 
 __Research methods__
 
-- Structural equation modeling
+Exploring big data
+- Multi-metrics(Bibliometrics, Econometrics, Patentmetrics)
+- Latent class analysis
+- Topic modeling
 - Social network analysis
-- Bibliometrics
+
+Examining casual relationship
+- Structural equation modeling
+
+Building prediction model
 - Machine learning via scikit-learn
 - Deep learning via PyTorch, Tensorflow/Keras
 
