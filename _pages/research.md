@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-__Research themes__
+# Research themes
 
 - Mixed metrics(Bibliometrics)
 - Technology landscaping
@@ -13,26 +13,32 @@ __Research themes__
 - Technology opportunity discovery
 - Health technology acceptance
 
-__Research directions__
+# Research directions
 
-Innovation Lab focuses on three major research directions. First, apply machine learning techniques to the bibliometrics analysis framework to add prediction capability for identifying the upcoming innovation research topics. Secondly, precisely quantify the effect of big data in the business and management field by applying machine learning-based clustering techniques and analyzing the correlation among social and cultural factors. For example, even though Taiwan’s ICT(information and communication technology) level is ranked high (14th in the UN’s ICT index), the mobile payment adoption rate is far lower than in other countries. It indicates to some extent cultural characteristics affect the technology adoption rate. Thirdly, identify influential factors on health technology acceptance in cross-cultural environments and find associations between the adoption rate and the economic and social environment of each culture. With the vision I laid out above, I am confident that I can explore novel research topics that can encompass evaluating technological innovation, strategizing effective management of technology, and planning the trajectory of adaptable applications.
+__Initial exploration of extensive data sets:__ Our first objective is to delve into comprehensive data sets encompassing bibliographies, economic data, and patent information. By applying machine learning techniques, we aim to precisely identify promising research topics and emerging technologies within this vast information landscape.
 
-__Research methods__
+__Enhancing technology acceptance through causal relationship identification:__ Our second goal is improving technology acceptance. To achieve this, we will analyze survey data employing structural equation modeling. By identifying causal relationships, we seek to uncover key factors influencing the acceptance of technological innovations.
 
-Exploring big data
+__Technology prediction using machine learning:__ Our third aim involves utilizing a machine learning-based technique to predict technology outcomes. By leveraging the data and outcomes mentioned earlier, we aim to develop predictive models that can accurately anticipate the trajectory and potential of emerging technologies.
+
+# Research methods
+
+__Exploring big data__
 - Multi-metrics(Bibliometrics, Econometrics, Patentmetrics)
-- Latent class analysis
-- Topic modeling
+- Latent class analysis (LCA)
+- Topic modeling (BERTopic)
 - Social network analysis
 
-Examining casual relationship
+__Examining casual relationship__
 - Structural equation modeling
 
-Building prediction model
+__Building prediction model__
 - Machine learning via scikit-learn
 - Deep learning via PyTorch, Tensorflow/Keras
 
-__Computational tools__
+# Computational tools
 
 - R
 - Python
+- [VOSviewer](https://www.vosviewer.com/)
+- [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/)
