@@ -26,19 +26,21 @@ __Technology prediction using machine learning:__ Our third aim involves utilizi
 __Exploring big data__
 - Multi-metrics(Bibliometrics, Econometrics, Patentmetrics)
 - Latent class analysis (LCA)
-- Topic modeling (BERTopic)
+- Word embedding and Topic modeling (BERTopic)
 - Social network analysis
 
 __Examining casual relationship__
-- Structural equation modeling
+- Structural equation modeling (SEM)
 
 __Building prediction model__
-- Machine learning via scikit-learn
-- Deep learning via PyTorch, Tensorflow/Keras
+- Machine learning via [scikit-learn](https://scikit-learn.org/)
+- Deep learning via [PyTorch](https://pytorch.org/), [Tensorflow](https://www.tensorflow.org/)/[Keras](https://keras.io/)
 
 ## Computational tools
 
-- R
-- Python
+- [R](https://www.r-project.org/)
+- [RStudio Desktop](https://posit.co/download/rstudio-desktop/)
+- [Python](https://www.python.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [VOSviewer](https://www.vosviewer.com/)
 - [CiteSpace](http://cluster.cis.drexel.edu/~cchen/citespace/)
