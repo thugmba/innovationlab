@@ -13,7 +13,7 @@ Whenever you have to choose a tool from a pool of options, choose one that has m
 
 ## AMAS framework
 
-Research is centered around pursuing knowledge, encompassing a range of activities, from gathering information to creating original contributions. These tasks must be carried out promptly, as each stage of the research process operates within specific time constraints. Maximizing efficiency calls for leveraging technology to a significant extent. The AMAS is a straightforward framework designed to streamline your research workflow and enhance productivity.
+Research is centered around pursuing knowledge, encompassing a range of activities, from gathering information to creating original contributions. These tasks must be carried out promptly, as each stage of the research process operates within specific time constraints. Maximizing efficiency calls for leveraging technology to a significant extent. The AMAS(Acquiring, Managing, Authoring, and Sharing) is a straightforward framework designed to streamline your research workflow and enhance productivity.
 
 ### Acquiring knowledge
 
