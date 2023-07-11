@@ -7,7 +7,7 @@ author_profile: true
 
 Conducting research is a complicated process that requires various tools to enhance the efficiency and quality of the work without unnecessarily sacrificing precious time in your life. This is a list of tools and tips that I had a first-hand experience with while I was in a doctoral program.
 
-Principal
+Principle
 
 Whenever you have to choose a tool from a pool of options, choose one that has multiple functionalities. Such tools allow us to learn once while being able to use them for a variety of tasks.
 
