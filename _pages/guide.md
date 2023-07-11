@@ -17,7 +17,7 @@ Research is centered around pursuing knowledge, encompassing a range of activiti
 
 ### Acquiring knowledge
 
-__Data sources__
+Data sources
 
 - Bibliographic database
 
@@ -32,17 +32,17 @@ __Data sources__
 
 ### Managing knowledge
 
-__Reference management__
+Reference management
 
 - [Zotero](https://www.zotero.org/): This is an essential tool to manage references while preparing research manuscripts. However, it is rather a helpful tool to create knowledge by effectively organizing knowledge. I managed to handle more than 2,000 references easily when preparing manuscripts and my doctoral dissertation. It can manage various types of data such as papers, websites, and URLs to YouTube videos. Thus, we can organize all related information in a single place. It is like a virtual folder keeping various data items together. If you are familiar with EndNote, then it is a piece of cake to learn how to use Zotero. For tutorials, search `zotero site:.edu` in Google.
 
 ### Authoring knowledge
 
-__Writing R/Python code__
+Writing R/Python codes
 
 - [MS Visual studio code](https://code.visualstudio.com/): It allows us to author documents, Python source codes, and R source codes in a single editing enrvionment. Of course, this website was authored with [MS Visual studio code](https://code.visualstudio.com/).
 
-__Authoring high quality vector graphic__
+Authoring high quality vector graphics
 
 - [Inkscape](https://inkscape.org/): This tool can manipulate vector graphic using simple user interface to generate high quality graphic arts for academic manuscript. Almost all academic journals require an author to submit figures in [vector graphic format](https://www.elsevier.com/journals/technological-forecasting-and-social-change/0040-1625/guide-for-authors) to maintain the quality of pictures in the paper.
 
