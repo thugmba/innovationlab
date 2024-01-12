@@ -59,8 +59,37 @@ Research articles
 
 - Conference: Submit your preliminary result to conference to get peer review from other researchers. 
   - Conference serach engine: [Elsevier Conference](https://www.elsevier.com/events/conferences/all), [WikiCFP](https://jcr.clarivate.com/), [Conal Conference Alerts](https://conferencealerts.com/).
+  - Recommended conferences
+    - PICMET(Portland International Center for Management of Engineering and Technology)
+    - R&D management conference
+    - ISPIM(International Society for Professional Innovation Management)
+    - CSMOT(Chinese Society for Management Of Technology)
+    - ASIALICS(Asian Network for Learning, Innovation, and Co-evolution)
+    - ICMSDM(International Conference in Management Sciences and Decision Making)
+    - ICIM(International Conference on Information Management)
+    - NCS(National Computer Symposium)
+    - MCAC(Management Concept and Application Conference)
+    - ...
+
 - Journal: Publish research outcome to academic journal. 
   - Journal search engine: [Journal Citation Reports.](https://jcr.clarivate.com/)
+  - Recommended journals
+    - Research Policy
+    - R&D Management
+    - Strategic Management Journal
+    - Academy of Management Journal
+    - IEEE Transactions on Engineering Management
+    - Technological Forecasting & Social Change
+    - Technovation
+    - International Journal of Information Management
+    - Journal of Management Information Systems
+    - Decision Support Systems
+    - Journal of Informetrics
+    - Computers in Human Behavior
+    - Decision Science
+    - Journal of Product Innovation Management
+    - ...
+
 
 Reusable codes
 
