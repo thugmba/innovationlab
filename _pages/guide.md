@@ -55,6 +55,15 @@ Authoring high quality vector graphics
 
 ### Sharing knowledge
 
+Research articles
+
+- Conference: Submit your preliminary result to conference to get peer review from other researchers. 
+  - Conference serach engine: [Elsevier Conference](https://www.elsevier.com/events/conferences/all), [WikiCFP](https://jcr.clarivate.com/), [Conal Conference Alerts](https://conferencealerts.com/).
+- Journal: Publish research outcome to academic journal. 
+  - Journal search engine: [Journal Citation Reports.](https://jcr.clarivate.com/)
+
+Reusable codes
+
 - [Github](https://github.com/): It is not only for source code, but also for sharing text information using [GitHub Pages](https://pages.github.com/) feature. This website is also created using [GitHub Pages](https://pages.github.com/). In other words, it is a free website platform.
 
 ## Dissemination
