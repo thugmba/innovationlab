@@ -24,6 +24,12 @@ Data sources
   - [Web of science](https://www.webofscience.com/): It is a primary source of data for conducting bibliometric analysis from [Clarivate](https://clarivate.com/). _It requires a subscription to access it_.
   - [Scopus](https://www.scopus.com/search/form.uri?display=basic#basic): Research article database from [Elsevier](https://www.elsevier.com/). _It requires a subscription to access it_.
 
+- Bibliographic software
+
+  - [VOSviewer](https://www.vosviewer.com/): Basic network analyais and visualization
+  - [Gephi](https://gephi.org/): Advanced network analyais and visualization
+  - [Bibliometrix](https://www.bibliometrix.org): R package
+
 - Machine learning
 
   - [Google Dataset Search](https://datasetsearch.research.google.com/): General dataset search engine with various useful metadata of dataset.
@@ -50,3 +56,8 @@ Authoring high quality vector graphics
 ### Sharing knowledge
 
 - [Github](https://github.com/): It is not only for source code, but also for sharing text information using [GitHub Pages](https://pages.github.com/) feature. This website is also created using [GitHub Pages](https://pages.github.com/). In other words, it is a free website platform.
+
+## Dissemination
+
+-	Message must be delivered! The oral presentation is the key skills to deliver your idea to the people who need it. Here is a great example of how to touch people's heart without touching it physically.
+Sinek, S. (2014, March). Simon Sinek: Why good leaders make you feel safe | TED Talk. TED. https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe
