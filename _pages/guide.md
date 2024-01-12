@@ -91,7 +91,7 @@ Research articles
     - ...
 
 
-Reusable codes
+Reusable R/Python codes
 
 - [Github](https://github.com/): It is not only for source code, but also for sharing text information using [GitHub Pages](https://pages.github.com/) feature. This website is also created using [GitHub Pages](https://pages.github.com/). In other words, it is a free website platform.
 
