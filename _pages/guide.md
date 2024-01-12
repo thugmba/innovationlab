@@ -21,7 +21,8 @@ Data sources
 
 - Bibliographic database
 
-  - [Web of science](https://www.webofscience.com/): It is a primary source of data for conducting bibliometric analysis. _It requires a subscription to access it_.
+  - [Web of science](https://www.webofscience.com/): It is a primary source of data for conducting bibliometric analysis from [Clarivate](https://clarivate.com/). _It requires a subscription to access it_.
+  - [Scopus](https://www.scopus.com/search/form.uri?display=basic#basic): Research article database from [Elsevier](https://www.elsevier.com/). _It requires a subscription to access it_.
 
 - Machine learning
 
