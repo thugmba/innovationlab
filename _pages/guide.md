@@ -59,5 +59,5 @@ Authoring high quality vector graphics
 
 ## Dissemination
 
--	Message must be delivered! The oral presentation is the key skills to deliver your idea to the people who need it. Here is a great example of how to touch people's heart without touching it physically.
+-	**Message must be delivered!** The oral presentation is the key skills to deliver your idea to the people who need it. Here is a great example of how to touch people's heart without touching it physically.
 Sinek, S. (2014, March). Simon Sinek: Why good leaders make you feel safe | TED Talk. TED. https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe
