@@ -60,34 +60,34 @@ Research articles
 - Conference: Submit your preliminary result to conference to get peer review from other researchers. 
   - Conference serach engine: [Elsevier Conference](https://www.elsevier.com/events/conferences/all), [WikiCFP](https://jcr.clarivate.com/), [Conal Conference Alerts](https://conferencealerts.com/).
   - Recommended conferences
-    - PICMET(Portland International Center for Management of Engineering and Technology)
-    - R&D management conference
-    - ISPIM(International Society for Professional Innovation Management)
-    - CSMOT(Chinese Society for Management Of Technology)
-    - ASIALICS(Asian Network for Learning, Innovation, and Co-evolution)
-    - ICMSDM(International Conference in Management Sciences and Decision Making)
-    - ICIM(International Conference on Information Management)
-    - NCS(National Computer Symposium)
-    - MCAC(Management Concept and Application Conference)
+    - [PICMET(Portland International Center for Management of Engineering and Technology)](https://www.picmet.org/)
+    - [R&D management conference](https://rnd2024.org/)
+    - [ISPIM(International Society for Professional Innovation Management)](https://www.ispim-innovation.com/)
+    - [CSMOT(Chinese Society for Management Of Technology)](https://www.csmot.org.tw/)
+    - [ASIALICS(Asian Network for Learning, Innovation, and Co-evolution)](https://www.facebook.com/p/Asian-Network-for-Learning-Innovation-and-Co-evolution-100063862483344/)
+    - [ICMSDM(International Conference in Management Sciences and Decision Making)](http://msdm.ms.tku.edu.tw/Front/Template/News.aspx?id=zTq4pS6u2k8=&Sn=261)
+    - [ICIM(International Conference on Information Management)](https://www.icim.org/)
+    - [Tenet & NCS(National Computer Symposium)](https://tanet2023.nccu.edu.tw/)
+    - [MCAC(Management Concept and Application Conference)](https://review.management.ntu.edu.tw/news.aspx?lang=en&pid=237)
     - ...
 
 - Journal: Publish research outcome to academic journal. 
   - Journal search engine: [Journal Citation Reports.](https://jcr.clarivate.com/)
   - Recommended journals
-    - Research Policy
-    - R&D Management
-    - Strategic Management Journal
-    - Academy of Management Journal
-    - IEEE Transactions on Engineering Management
-    - Technological Forecasting & Social Change
-    - Technovation
-    - International Journal of Information Management
-    - Journal of Management Information Systems
-    - Decision Support Systems
-    - Journal of Informetrics
-    - Computers in Human Behavior
-    - Decision Science
-    - Journal of Product Innovation Management
+    - [Research Policy](https://www.sciencedirect.com/journal/research-policy)
+    - [R&D Management](https://onlinelibrary.wiley.com/journal/14679310)
+    - [Strategic Management Journal](https://onlinelibrary.wiley.com/journal/10970266)
+    - [Academy of Management Journal](https://aom.org/research/journals/journal)
+    - [IEEE Transactions on Engineering Management](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/)
+    - [Technological Forecasting and Social Change](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change)
+    - [Technovation](https://www.sciencedirect.com/journal/technovation)
+    - [International Journal of Information Management](https://www.sciencedirect.com/journal/international-journal-of-information-management)
+    - [Journal of Management Information Systems](https://www.tandfonline.com/journals/mmis20)
+    - [Decision Support Systems](https://www.sciencedirect.com/journal/decision-support-systems)
+    - [Journal of Informetrics](https://www.sciencedirect.com/journal/journal-of-informetrics)
+    - [Computers in Human Behavior](https://www.sciencedirect.com/journal/computers-in-human-behavior)
+    - [Decision Sciences](https://onlinelibrary.wiley.com/journal/15405915)
+    - [Journal of Product Innovation Management](https://onlinelibrary.wiley.com/journal/15405885)
     - ...
 
 
