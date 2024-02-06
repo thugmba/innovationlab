@@ -16,6 +16,10 @@ __Vision__
 
 Create knowledge by exploring AI applications for management and health research
 
+__Projects__
+
+- Formulating management principles on utilizing generative AI to
+sustain competitive advantage by 國科會 National Science and Technology Council (2023/7~2024/6)
 <!-- What wo do -->
 
 __Information with technology management__
