@@ -9,17 +9,18 @@ __Principal investigator__
 
 - [Brian Kim](https://briankimstudio.github.io/)
 
-__Doctoral students__
+<!-- __Doctoral students__
 
-- Chacha
+- Chacha -->
 
 __Master's students__
 
-- Meimei
+- [Eva Huang](https://xexnvn.github.io/)
+- [Max You](https://sites.google.com/view/thu-gmba-max)
 
-__Undergraduate students__
+<!-- __Undergraduate students__
 
-- Miaomiao
+- Miaomiao -->
 
 __Collaborators__
 
