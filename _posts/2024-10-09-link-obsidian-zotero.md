@@ -16,17 +16,17 @@ How to cite Zotero'item in Obsidian's note.
 
 It needs to install one plugin in Zotero and two plugins in Obsidian.
 
-1. Install [Better BibTeX forZotero](https://retorque.re/zotero-better-bibtex/installation/) plugin in Zotero
+1. Install [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/installation/) plugin in Zotero
 2. Install Zotero Integration, Pandoc Reference List plugins in Obsidian
 
 ### Configuration
 
 After installing plugins in Obsidian, additional configuration is required for both plugins.
 
-#### Zotero Integraion
+### Zotero Integraion
 
-1. Add a citation style you want. It is just a name for you to choose from in command palette.
-2. Set the __Output Format__ to __Pandoc__. 
+1. In __Citation Formats__, add a citation style you want. __Name__ is just a name for you to choose from in command palette when you add a citation later.
+2. Set the __Output Format__ to __Pandoc__. So, the actual styling task is done by __Pandoc Reference List__ plugin.
 ![[Pasted image 20241008162336.png]]
 
 ### Pandoc Reference List
@@ -45,12 +45,14 @@ To cite a reference in Obsidian,
 3. Zotero citation window would show up like this4. ![[Pasted image 20241008163513.png]]
 5. type the name of reference
 6. in-text citation is added like this.
-    @abernathyPatternsIndustrialInnovation1978
+    Abernathy & Utterback (1978)
 7. choose Pandoc Reference List: Show reference list, then the referents would show up on the right panel8. ![[Pasted image 20241008163726.png]]
 
 		![[Pasted image 20241008163829.png]]
 8. copy the contents of __References__, and paste them in the note.
 
-### Reference
+### References
 
-[How to use Zotero in Obsidian](https://youtu.be/8yMko1m8XSQ?feature=shared)
+Signal Processing with Paul (Director). (2024, July 16). _How to use Zotero in Obsidian_ [Video recording]. [https://www.youtube.com/watch?v=8yMko1m8XSQ](https://www.youtube.com/watch?v=8yMko1m8XSQ)
+
+Better BibTeX for Zotero. (n.d.). Retrieved October 9, 2024, from https://retorque.re/zotero-better-bibtex/
