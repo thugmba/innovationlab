@@ -10,23 +10,33 @@ tags:
 
 ### How to link Zotero and Obsidian
 
+How to cite Zotero'item in Obsidian's note.
 
-
-How to cite data in Zotero in Obsidian.
 ### Install
+
+It needs to install one plugin in Zotero and two plugins in Obsidian.
 
 1. Install [Better BibTeX forZotero](https://retorque.re/zotero-better-bibtex/installation/) plugin in Zotero
 2. Install Zotero Integration, Pandoc Reference List plugins in Obsidian
+
 ### Configuration
 
-1. In the Zotero Integration's General Settings, add a citation style you want and set the __Output Format__ to __Pandoc__. 
+After installing plugins in Obsidian, additional configuration is required for both plugins.
+
+#### Zotero Integraion
+
+1. Add a citation style you want. It is just a name for you to choose from in command palette.
+2. Set the __Output Format__ to __Pandoc__. 
 ![[Pasted image 20241008162336.png]]
-2. In Pandoc Reference List's option, 
-  1. Enable __Pull bibliography from Zotero__.
+
+### Pandoc Reference List
+
+1. Enable __Pull bibliography from Zotero__.
 ![[Pasted image 20241008162547.png]]
 
-  2. In __Citation style__, choose style you want. In this example, we choose APA 7 edition.
+2. In __Citation style__, choose actual citation style you want. In this example, we choose APA 7 edition.
 ![[Pasted image 20241008162718.png]]
+
 ### Usage
 
 To cite a reference in Obsidian, 
@@ -41,8 +51,6 @@ To cite a reference in Obsidian,
 		![[Pasted image 20241008163829.png]]
 8. copy the contents of __References__, and paste them in the note.
 
-Reference
+### Reference
+
 [How to use Zotero in Obsidian](https://youtu.be/8yMko1m8XSQ?feature=shared)
-
-
-
